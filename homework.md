@@ -39,6 +39,8 @@
 - Group Similar Items: Place items from the same category together to make checkout easier.
 - Avoid Overloading: Ensure you have enough space in your cart for everything on your list.
 
+![Tableside with assortment of leafy vegetables](https://images.unsplash.com/photo-1581283177406-be33dee67044?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dmVnZXN0YWJsZXN8ZW58MHx8MHx8fDA%3D)
+
 ## Use Efficient Checkout Methods
 
 - Self-Checkout: If available, use self-checkout to avoid long lines.
@@ -55,3 +57,5 @@
 - Adjust Your Plan: Make changes based on your experiences to improve efficiency.
 
 **_By following these tips, you can make grocery shopping a more streamlined and enjoyable task!_**
+
+![Young couple shopping together and looking at item](https://plus.unsplash.com/premium_photo-1661381007965-b21e0fb0681b?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Z3JvY2VyeSUyMHNob3BwaW5nfGVufDB8fDB8fHww)
