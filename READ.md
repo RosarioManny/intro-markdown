@@ -52,5 +52,7 @@ const total = addNums(2, 4);
 console.log(total) // Expected value: 6
 ```
 
+![Close-up of laptop with code](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29kaW5nfGVufDB8fDB8fHww)
 For more information on functions and how they are used in JS, check out the MDN docs.
-[MDN] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+
+[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
